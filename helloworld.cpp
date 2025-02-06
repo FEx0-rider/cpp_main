@@ -4,7 +4,7 @@
 #include <fstream> // kihovna pro psani so souborů
 
 using namespace std;  // puziji abych nemusel pokazde odkazovat na promnenou v knihovne
-                     // obcas muze delat problemi kdyz mam importovano dost knihoven
+                     // obcas muze delat problemy kdyz mam importovano dost knihoven
 
 int cilso = 2; // toto jsou promenne typy
 short cislo = 12; // toto jsou promenne typu short
